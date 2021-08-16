@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Manual deployment links:
+
+- S3 bucket: http://task2-manual-rs.s3-website-eu-west-1.amazonaws.com/
+- Cloudfront: https://dkho90ze9q16v.cloudfront.net/
+
+## Auto deployment links:
+
+- S3 bucket: http://task2-auto-rs.s3-website-us-east-1.amazonaws.com/
+- Cloudfront: https://d2h31sqon32jzd.cloudfront.net/
+
 ## Available Scripts
 
 In the project directory, you can run:  
