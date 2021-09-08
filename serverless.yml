@@ -11,7 +11,7 @@
 #
 # Happy Coding!
 
-service: task2-auto-rs
+service: racket-shop-aws-rs
 # app and org for use with dashboard.serverless.com
 #app: your-app-name
 #org: your-org-name
@@ -32,7 +32,7 @@ plugins:
 
 custom:
   client:
-    bucketName: task2-auto-rs
+    bucketName: racket-shop-aws-rs
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
   s3LocalPath: ${self:custom.client.distributionFolder}/
